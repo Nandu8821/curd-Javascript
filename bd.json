@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "rollno": "111",
+      "name": "jeevan",
+      "city": "mandsaur",
+      "fess": "90000",
+      "id": 13
+    },
+    {
+      "rollno": "112",
+      "name": "varsha",
+      "city": "balghat",
+      "fess": "43500",
+      "id": 14
+    },
+    {
+      "rollno" : "113",
+      "name":"nandu",
+      "city":"vidisha",
+      "fess":"89990",
+      "id":15
+    },
+    {
+      "rollno" : "114",
+      "name":"bhushan",
+      "city":"groth",
+      "fess":"25000",
+      "id":16
+    }
+  ]
+}
